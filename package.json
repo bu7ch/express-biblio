@@ -1,0 +1,22 @@
+{
+  "name": "biblio",
+  "version": "1.0.0",
+  "description": "a little project to explain express node and other stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bu7ch/express-biblio.git"
+  },
+  "author": "dutchr@live.fr",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/bu7ch/express-biblio/issues"
+  },
+  "homepage": "https://github.com/bu7ch/express-biblio#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
