@@ -18,5 +18,9 @@
   "homepage": "https://github.com/bu7ch/express-biblio#readme",
   "dependencies": {
     "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10",
+    "volleyball": "^1.5.1"
   }
 }
