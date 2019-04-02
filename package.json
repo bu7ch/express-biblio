@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/bu7ch/express-biblio#readme",
   "dependencies": {
+    "config": "^3.0.1",
     "express": "^4.16.4"
   },
   "devDependencies": {
