@@ -24,4 +24,9 @@ app.route("/book")
   .get(book.getBooks)
   .post(book.postBook)
 
+app.route('/book/:id')
+  .get(book.getBook)
+  .put(book.updateBook)
+  .delete(book.deleteBook)
+
 app.listen(port, () => console.log(`[Application running on port ${port}]`));
